@@ -1069,8 +1069,8 @@
 		
 		"uniqueName": "Daily poll",
 		"uniques": ["Gain [1] [Faith] <upon turn end>",
-					"Gain [1] [Culture] <upon turn end>",],
-		"cities": ["Bird","Juices","Clemenrubi","Orogrós","Clemenules","Tang Gold"]
+					"Gain [1] [Culture] <upon turn end>"],
+		"cities": ["Bird","Juices","Clemenrubi","Fawkes","Orogrós","Xephyra","Clemenules","Ho-oh","Tang Gold","Algerian Clementine","Fina","Clemenule","Clementine del Golfo di Taranto","Clementine di Calabria"]
 	},
 
 ]
